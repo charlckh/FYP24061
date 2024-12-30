@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+binance==0.3
+httpx==0.28.1
+loguru==0.7.3
+pandas==2.2.3
+pandas_datareader==0.10.0
+parsel==1.9.1
+playwright==1.49.1
+python_binance==1.0.26
+Requests==2.32.3
+textblob==0.18.0.post0
+tweepy==4.14.0
+vaderSentiment==3.3.2
+vaderSentiment==3.3.2
+yfinance==0.2.51
