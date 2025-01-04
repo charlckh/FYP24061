@@ -1,0 +1,2 @@
+1. verify backtesting calculation code by chatgpt
+2. ML based model
